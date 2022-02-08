@@ -308,6 +308,9 @@ public class AppDibujo01
 }
 
 ```
+## OUTPUT 1
+
+![Image text](https://github.com/rimtyouss/poo/blob/main/Practica3/outputapp1.JPG)
 
 
 ## APP DIBUJO 02
@@ -341,6 +344,6 @@ public class AppDibujo02
 
 ```
 
+## OUTPUT 2
 
-
-
+![Image text](https://github.com/rimtyouss/poo/blob/main/Practica3/outputapp2.JPG)
